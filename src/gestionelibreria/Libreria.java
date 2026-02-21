@@ -1,5 +1,5 @@
 package gestionelibreria;
-//versione 5 online
+//versione 6 online
 import java.util.Arrays;
 
 public class Libreria {
